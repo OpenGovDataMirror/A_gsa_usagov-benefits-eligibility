@@ -1,0 +1,293 @@
+{
+  "projectName": "Benefits Eligibility Awareness Resource",
+  "banner": {
+    "official": "An official website of the United States government",
+    "know": "Here’s how you know",
+    "dropdown": {
+      "official": "Official websites use .gov",
+      "officialDetailsDotGovPrefix": "A ",
+      "officialDetails": " website belongs to an official government organization in the United States.",
+      "secure": "Secure .gov websites use HTTPS",
+      "secureDetailsLockPrefix": "A",
+      "secureDetailsLockStrong": "lock",
+      "secureDetailsLockPostfix": "or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+    }
+  },
+  "accordion": {
+    "provided": "Provided by",
+    "apply": "How to Apply",
+    "not_eligible": "you are not eligible",
+    "eligible": "you might be eligible",
+    "unknown": "more info needed"
+  },
+  "criteria_group": {
+    "non_selected": "No eligibility criteria selected"
+  },
+  "dateInput": {
+    "month": "Month",
+    "day": "Day",
+    "year": "Year",
+    "year-placeholder": "YYYY",
+    "example": "For example: 4/28/1986",
+    "error_msg": "Please enter a valid date."
+  },
+  "eligibilityList": {
+    "left-rail-heading": "Answer a Few Questions",
+    "right-rail-heading": "Potential Federal Benefits",
+    "heading": "Key eligibility criteria",
+    "you_must": "You must meet all criteria. You currently meet",
+    "of": "of",
+    "additional": "Additional eligibility criteria may apply.",
+    "review": "Please review the full requirements at",
+    "match": "You meet this criterion",
+    "remove": "You do not meet this criterion",
+    "noMatch": "You did not provide info for this criterion"
+  },
+  "skipnav": "Skip to main content",
+  "returnToTop": "Return to top",
+  "utilityNav": {
+    "linkOne": "Benefits by life events",
+    "linkTwo": "Benefits by type",
+    "linkThree": "Benefits by agency"
+  },
+  "header": {
+    "menu": "MENU",
+    "main": "Main Navigation",
+    "GroupOne": {
+      "title": "All Topics and Services",
+      "titleUrl": "https://www.usa.gov/#tpcs"
+    },
+    "GroupTwo": {
+      "title": "About the U.S.",
+      "titleUrl": "https://www.usa.gov/about-the-us",
+      "linkOne": "Branches of the U.S. Government",
+      "linkOneUrl": "https://www.usa.gov/branches-of-government",
+      "linkTwo": "Budget of the U.S. Government",
+      "linkTwoUrl": "https://www.usa.gov/budget",
+      "linkThree": "Data and Statistics About the U.S.",
+      "linkThreeUrl": "https://www.usa.gov/statistics",
+      "linkFour": "History and Historical Documents",
+      "linkFourUrl": "https://www.usa.gov/history",
+      "linkFive": "American Flag",
+      "linkFiveUrl": "https://www.usa.gov/flag",
+      "linkSix": "Learn About Life in the U.S.",
+      "linkSixUrl": "https://www.usa.gov/life-in-the-us",
+      "linkSeven": "Presidents, Vice Presidents, and First Ladies",
+      "linkSevenUrl": "https://www.usa.gov/presidents",
+      "linkEight": "Government Agencies and Elected Officials",
+      "linkEightUrl": "https://www.usa.gov/agencies",
+      "linkNine": "Laws and Legal Issues",
+      "linkNineUrl": "https://www.usa.gov/laws"
+    },
+    "GroupThree": {
+      "title": "Benefits, Grants, Loans",
+      "titleUrl": "https://www.usa.gov/benefits-grants-loans",
+      "linkOne": "Benefits",
+      "linkOneUrl": "https://www.usa.gov/benefits",
+      "linkTwo": "State Social Service Agencies",
+      "linkTwoUrl": "https://www.usa.gov/state-social-services",
+      "linkThree": "Help with Bills",
+      "linkThreeUrl": "https://www.usa.gov/help-with-bills",
+      "linkFour": "Grants and Loans",
+      "linkFourUrl": "https://www.usa.gov/grants",
+      "linkFive": "Food Assistance",
+      "linkFiveUrl": "https://www.usa.gov/food-help",
+      "linkSix": "Social Security Questions",
+      "linkSixUrl": "https://www.usa.gov/about-social-security",
+      "linkSeven": "Affordable Rental Housing",
+      "linkSevenUrl": "https://www.usa.gov/finding-home",
+      "linkEight": "Financial Aid for Students",
+      "linkEightUrl": "https://www.usa.gov/financial-aid",
+      "linkNine": "Military Programs and Benefits",
+      "linkNineUrl": "https://www.usa.gov/military-assistance",
+      "linkTen": "Retirement",
+      "linkTenUrl": "https://www.usa.gov/retirement",
+      "linkEleven": "Unemployment Help",
+      "linkElevenUrl": "https://www.usa.gov/unemployment"
+    },
+    "GroupFour": {
+      "title": "Government Agencies and Elected Officials",
+      "titleUrl": "https://www.usa.gov/agencies",
+      "linkOne": "A-Z Index of U.S. Government Agencies",
+      "linkOneUrl": "https://www.usa.gov/federal-agencies",
+      "linkTwo": "State, Local, and Tribal Governments",
+      "linkTwoUrl": "https://www.usa.gov/state-tribal-governments",
+      "linkThree": "Contact Elected Officials",
+      "linkThreeUrl": "https://www.usa.gov/elected-officials",
+      "linkFour": "Forms, by Agency",
+      "linkFourUrl": "https://www.usa.gov/forms",
+      "linkFive": "Buying from the U.S. Government",
+      "linkFiveUrl": "https://www.usa.gov/buy-from-government",
+      "linkSix": "About the U.S.",
+      "linkSixUrl": "https://www.usa.gov/about-the-us",
+      "linkSeven": "Branches of the U.S. Government",
+      "linkSevenUrl": "https://www.usa.gov/branches-of-government",
+      "linkEight": "Budget of the U.S. Government",
+      "linkEightUrl": "https://www.usa.gov/budget"
+    },
+    "GroupFive": {
+      "title": "Jobs and Unemployment",
+      "titleUrl": "https://www.usa.gov/jobs-and-unemployment",
+      "linkOne": "Looking for a New Job",
+      "linkOneUrl": "https://www.usa.gov/job-search",
+      "linkTwo": "Unemployment Help",
+      "linkTwoUrl": "https://www.usa.gov/unemployment",
+      "linkThree": "Labor Laws and Issues",
+      "linkThreeUrl": "https://www.usa.gov/labor-laws",
+      "linkFour": "U.S. Government Employees",
+      "linkFourUrl": "https://www.usa.gov/federal-employees",
+      "linkFive": "Retirement",
+      "linkFiveUrl": "https://www.usa.gov/retirement",
+      "linkSix": "Small Business",
+      "linkSixUrl": "https://www.usa.gov/business"
+    },
+    "GroupSix": {
+      "title": "Money and Taxes",
+      "titleUrl": "https://www.usa.gov/travel-and-immigration",
+      "linkOne": "Taxes",
+      "linkOneUrl": "https://www.usa.gov/taxes",
+      "linkTwo": "Credit and Debt",
+      "linkTwoUrl": "https://www.usa.gov/credit-and-debt",
+      "linkThree": "Spending, Saving and Investing",
+      "linkThreeUrl": "https://www.usa.gov/spend-save-invest",
+      "linkFour": "Unclaimed Money from the Government",
+      "linkFourUrl": "https://www.usa.gov/unclaimed-money",
+      "linkFive": "Currency",
+      "linkFiveUrl": "https://www.usa.gov/currency",
+      "linkSix": "Benefits, Grants, Loans",
+      "linkSixUrl": "https://www.usa.gov/benefits-grants-loans",
+      "linkSeven": "Consumer Issues",
+      "linkSevenUrl": "https://www.usa.gov/consumer",
+      "linkEight": "Housing",
+      "linkEightUrl": "https://www.usa.gov/housing",
+      "linkNine": "Retirement",
+      "linkNineUrl": "https://www.usa.gov/retirement"
+    },
+    "GroupSeven": {
+      "title": "Travel and Immigration",
+      "titleUrl": "https://www.usa.gov/travel-and-immigration",
+      "linkOne": "Passports and International Travel",
+      "linkOneUrl": "https://www.usa.gov/travel-abroad",
+      "linkTwo": "Immigration and Citizenship",
+      "linkTwoUrl": "https://www.usa.gov/immigration-and-citizenship",
+      "linkThree": "Visas and Visiting the U.S.",
+      "linkThreeUrl": "https://www.usa.gov/visas-and-visitors",
+      "linkFour": "Recreation and Travel within the U.S.",
+      "linkFourUrl": "https://www.usa.gov/recreation-and-travel"
+    },
+    "meta": {
+      "search": "Search",
+      "placeholder": "Search All Government",
+      "back": "Benefits, Grants, Loans",
+      "backUrl": "https://www.usa.gov/benefits-grants-loans",
+      "language": "Español"
+    }
+  },
+  "buttons": {
+    "open_all": "Open All",
+    "close_all": "Close All",
+    "my_selections": "my selections"
+  },
+  "radio": {
+    "not_applicable": "not applicable"
+  },
+  "dropDown": {
+    "select": "Select"
+  },
+  "shareResults": {
+    "heading": "Sharing and printing",
+    "description": "Copy a link to this page with the criteria you selected above. Make sure to share it only with those you trust as\nyour answers will be visible.",
+    "linkCopied": "Link with my selections is copied",
+    "copy": "Copy my selections",
+    "email": "Email my selections",
+    "print": "Print my selections"
+  },
+  "footer": {
+    "GroupOne": {
+      "header": "About USA.gov",
+      "linkOne": "About Us and Site Notices",
+      "linkOneUrl": "https://www.usa.gov/about",
+      "linkTwo": "For the Media",
+      "linkTwoUrl": "https://www.usa.gov/media",
+      "linkThree": "For Developers",
+      "linkThreeUrl": "https://www.usa.gov/developer",
+      "linkFour": "Report a Website Issue",
+      "linkFourUrl": "https://www.usa.gov/site-issue-report-form",
+      "linkFive": "All Topics and Services",
+      "linkFiveUrl": "https://www.usa.gov/#tpcs"
+    },
+    "GroupTwo": {
+      "header": "Ask USA.gov a Question",
+      "linkOne": "Call 1-844-USAGOV1 (1-844-872-4681)",
+      "linkOneUrl": "https://www.usa.gov/phone",
+      "linkTwo": "En Español",
+      "linkTwoUrl": "https://usa.gov/espanol/contactenos"
+    },
+    "GroupThree": {
+      "header": "Sign Up to Receive Email Updates",
+      "formLabel": "Enter your email",
+      "buttonText": "Sign Up"
+    },
+    "subFooter": "USAGov is the Official Guide to Government Information and Services"
+  },
+  "lifeEvent": {
+    "buttonLabel1": "Open All",
+    "buttonLabel2": "Close All",
+    "buttonLabel3": "Clear Selections",
+    "buttonLabel4": "Clear my selections",
+    "important": "Important information",
+    "benefits": "Potential Federal Benefits",
+    "results": "Results",
+    "labelShowText": "Showing",
+    "labelShowText2": "related benefits sorted by:",
+    "option1": "Relevance",
+    "option2": "Title (A-Z)",
+    "eligibilityCriteria": "Eligibility Criteria",
+    "currentlyViewing": "Currently viewing",
+    "fetchState": {
+      "pending": "Fetching benefits...",
+      "error": "Error while fetching benefits.",
+      "none": "No matching benefits found."
+    }
+  },
+  "types": {
+    "heading": "If you know the specific type of benefit you are looking for, select it below.",
+    "sort": "Benefits by type"
+  },
+  "agency": {
+    "sort": "Benefits by agency"
+  },
+  "404": {
+    "sidenav": {
+      "linkOne": "https://usa.gov/contact",
+      "linkOneText": "Contact USA.gov",
+      "linkTwo": "https://usa.gov/phone",
+      "linkTwoText": "Call USA.gov",
+      "linkThree": "https://usa.gov/chat",
+      "linkThreeText": "Chat with USA.gov",
+      "linkFour": "https://usa.gov/how-to-use",
+      "linkFourText": "Find What You Need with USA.gov"
+    },
+    "contactBox": {
+      "header": "Contact Us",
+      "paragraph": "Ask a real person any government-related question for free. They'll get you the answer or let you know where to find it.",
+      "list": {
+        "bulletOneText": "Talk to a live USA.gov agent",
+        "bulletOneLink": "https://usa.gov/phone",
+        "bulletTwoText": "Web Chat with a live USA.gov agent",
+        "bulletTwoLink": "https://usa.gov/chat"
+      }
+    },
+    "heading": "Page Not Found",
+    "paragraphOne": "We can't find the page you're looking for. It might have been removed, had its name changed, or is temporarily unavailable.",
+    "paragraphTwo": "If you typed the URL directly, check your spelling and capitalization. Our URLs look like this:&nbsp;<strong>usa.gov/example-one</strong> and <strong>usa.gov/espanol/ejemplo-uno</strong>.<br /><br /><strong>Note:</strong> When typing a Spanish URL, use the 'n' instead of the 'ñ' in the address bar.",
+    "paragraphThree": "You can browse our <a href='https://usa.gov/topics'>topics page</a> or <a href='https://usa.gov/espanol#tpcs'>servicios</a> (in Spanish), use our search engine, or <a href='https://usa.gov/contact'>contact us</a> if you still have a question."
+  },
+  "screenReader": {
+    "close": "All accordions closed",
+    "open": "All accordions opened",
+    "match": "You match",
+    "benefits": "benefits",
+    "clear": "Selections cleared"
+  }
+}

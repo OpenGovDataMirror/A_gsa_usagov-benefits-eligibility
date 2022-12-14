@@ -1,0 +1,280 @@
+{
+  "projectName": "Buscador de beneficios",
+  "banner": {
+    "official": "Un sitio oficial del Gobierno de Estados Unidos",
+    "know": "Así es como usted puede verificarlo",
+    "dropdown": {
+      "official": "Los sitios web oficiales usan .gov",
+      "officialDetailsDotGovPrefix": "Un sitio web",
+      "officialDetails": " pertenece a una organización oficial del Gobierno de Estados Unidos.",
+      "secure": "Los sitios web seguros .gov usan HTTPS",
+      "secureDetailsLockPrefix": "Un",
+      "secureDetailsLockStrong": "candado",
+      "secureDetailsLockPostfix": "o https:// significa que usted se conectó de forma segura a un sitio web .gov. Comparta información sensible sólo en sitios web oficiales y seguros."
+    }
+  },
+  "eligibilityList": {
+    "left-rail-heading": "Responda unas preguntas",
+    "right-rail-heading": "Beneficios federales potenciales",
+    "heading": "Principales criterios de elegibilidad",
+    "you_must": "Debe cumplir todos los criterios. Actualmente cumple",
+    "of": "de",
+    "additional": "Puede haber criterios de elegibilidad adicionales.",
+    "review": "Examine todos los requisitos en",
+    "match": "Usted cumple este criterio",
+    "remove": "Usted no cumple este criterio",
+    "noMatch": "Usted no brindó información para este criterio"
+  },
+  "skipnav": "Ir al contenido principal",
+  "returnToTop": "Volver al principio",
+  "utilityNav": {
+    "linkOne": "Beneficios por acontecimientos de vida",
+    "linkTwo": "Beneficios por tipo",
+    "linkThree": "Beneficios por agencia"
+  },
+  "header": {
+    "menu": "MENÚ",
+    "main": "Navegación Principal",
+    "GroupOne": {
+      "title": "Todos los temas y servicios",
+      "titleUrl": "https://www.usa.gov/espanol/#tpcs"
+    },
+    "GroupTwo": {
+      "title": "Ayuda financiera y beneficios",
+      "titleUrl": "https://www.usa.gov/espanol/ayuda-financiera-becas-beneficios",
+      "linkOne": "Programas sociales del Gobierno",
+      "linkOneUrl": "https://www.usa.gov/espanol/programas-sociales",
+      "linkTwo": "Préstamos y subvenciones",
+      "linkTwoUrl": "https://www.usa.gov/espanol/prestamos-y-subvenciones",
+      "linkThree": "Ayuda financiera para estudiantes",
+      "linkThreeUrl": "https://www.usa.gov/espanol/ayuda-financiera-para-estudiantes",
+      "linkFour": "Seguro Social",
+      "linkFourUrl": "https://www.usa.gov/espanol/seguro-social",
+      "linkFive": "Asistencia alimentaria",
+      "linkFiveUrl": "https://www.usa.gov/espanol/asistencia-alimentaria",
+      "linkSix": "Pago de facturas",
+      "linkSixUrl": "https://www.usa.gov/espanol/pago-facturas",
+      "linkSeven": "Ayuda disponible por desempleo",
+      "linkSevenUrl": "https://www.usa.gov/espanol/desempleo",
+      "linkEight": "Beneficios para miembros de las Fuerzas Armadas",
+      "linkEightUrl": "https://www.usa.gov/espanol/beneficios-familias-militares",
+      "linkNine": "Jubilación",
+      "linkNineUrl": "https://www.usa.gov/espanol/jubilacion",
+      "linkTen": "Vivienda de renta asequible"
+    },
+    "GroupThree": {
+      "title": "Ciudadanía, inmigración y viajes",
+      "titleUrl": "https://www.usa.gov/espanol/ciudadania-inmigracion-viajes",
+      "linkOne": "Deportación",
+      "linkOneUrl": "https://www.usa.gov/espanol/deportacion",
+      "linkTwo": "Viajes dentro Estados Unidos",
+      "linkTwoUrl": "https://www.usa.gov/espanol/viajes-dentro-estados-unidos",
+      "linkThree": "Viajes al exterior",
+      "linkThreeUrl": "https://www.usa.gov/espanol/viajes-al-exterior",
+      "linkFour": "Pasaporte estadounidense",
+      "linkFourUrl": "https://www.usa.gov/espanol/pasaportes-documentos-de-viaje",
+      "linkFive": "Ciudadanía y naturalización",
+      "linkFiveUrl": "https://www.usa.gov/espanol/naturalizacion",
+      "linkSix": "Residencia permanente Green Card",
+      "linkSixUrl": "https://www.usa.gov/espanol/residencia-permanente",
+      "linkSeven": "Entradas y salidas de EE. UU.",
+      "linkSevenUrl": "https://www.usa.gov/espanol/registros-de-entrada",
+      "linkEight": "Visas para extranjeros",
+      "linkEightUrl": "https://www.usa.gov/espanol/inmigrantes-noresidentes",
+      "linkNine": "Temas migratorios comunes",
+      "linkNineUrl": "https://www.usa.gov/espanol/tramites-migratorios"
+    },
+    "GroupFour": {
+      "title": "Dinero e impuestos",
+      "titleUrl": "https://www.usa.gov/espanol/dinero",
+      "linkOne": "Seguros personales",
+      "linkOneUrl": "https://www.usa.gov/espanol/seguros-personales",
+      "linkTwo": "Gasto, ahorro e inversión",
+      "linkTwoUrl": "https://www.usa.gov/espanol/gasto-ahorro-inversion",
+      "linkThree": "Informes y puntajes de crédito",
+      "linkThreeUrl": "https://www.usa.gov/espanol/credito",
+      "linkFour": "Impuestos",
+      "linkFourUrl": "https://www.usa.gov/espanol/impuestos",
+      "linkFive": "Dinero sin reclamar",
+      "linkFiveUrl": "https://www.usa.gov/espanol/dinero-sin-reclamar",
+      "linkSix": "Ayuda financiera y beneficios",
+      "linkSixUrl": "https://www.usa.gov/espanol/ayuda-financiera-becas-beneficios",
+      "linkSeven": "Temas del consumidor",
+      "linkSevenUrl": "https://www.usa.gov/espanol/proteccion-consumidor"
+    },
+    "GroupFive": {
+      "title": "Directorios del Gobierno",
+      "titleUrl": "https://www.usa.gov/espanol/directorios",
+      "linkOne": "Funcionarios elegidos",
+      "linkOneUrl": "https://www.usa.gov/espanol/funcionarios-elegidos",
+      "linkTwo": "Gobiernos estatales",
+      "linkTwoUrl": "https://www.usa.gov/espanol/agencias-estatales",
+      "linkThree": "Consulados y embajadas",
+      "linkThreeUrl": "https://www.usa.gov/espanol/consulados-embajadas",
+      "linkFour": "Agencias del Gobierno",
+      "linkFourUrl": "https://www.usa.gov/espanol/agencias-gobierno",
+      "linkFive": "Acerca de EE. UU.",
+      "linkFiveUrl": "https://www.usa.gov/espanol/acerca-de-estados-unidos"
+    },
+    "GroupSix": {
+      "title": "Temas del consumidor",
+      "titleUrl": "https://www.usa.gov/espanol/trabajo-y-desempleo",
+      "linkOne": "Presentar una queja",
+      "linkOneUrl": "https://www.usa.gov/espanol/presentar-queja",
+      "linkTwo": "Telecomunicaciones",
+      "linkTwoUrl": "https://www.usa.gov/espanol/telecomunicaciones",
+      "linkThree": "Telemercadeo insistente y correo basura",
+      "linkThreeUrl": "https://www.usa.gov/espanol/telemercadeo-correo-basura",
+      "linkFour": "Estafas y fraudes",
+      "linkFourUrl": "https://www.usa.gov/espanol/estafas-fraudes",
+      "linkFive": "Dinero e impuestos",
+      "linkFiveUrl": "https://www.usa.gov/espanol/dinero",
+      "linkSix": "Oficinas estatales de protección al consumidor",
+      "linkSixUrl": "https://www.usa.gov/espanol/estados-consumidor"
+    },
+    "GroupSeven": {
+      "title": "Trabajo y desempleo",
+      "titleUrl": "https://www.usa.gov/espanol/trabajo-y-desempleo",
+      "linkOne": "Empleo y capacitación laboral",
+      "linkOneUrl": "https://www.usa.gov/espanol/empleo-capacitacion-laboral",
+      "linkTwo": "Jubilación",
+      "linkTwoUrl": "https://www.usa.gov/espanol/jubilacion",
+      "linkThree": "Ayuda disponible por desempleo",
+      "linkThreeUrl": "https://www.usa.gov/espanol/desempleo",
+      "linkFour": "Pequeñas empresas",
+      "linkFourUrl": "https://www.usa.gov/espanol/negocios-y-organizaciones-ONG"
+    },
+    "meta": {
+      "search": "Busque en USAGov en Español",
+      "placeholder": "Busque en USAGov",
+      "back": "Beneficios, Subvenciones, Préstamos",
+      "backUrl": "https://www.usa.gov/espanol/ayuda-financiera-becas-beneficios",
+      "language": "English"
+    }
+  },
+  "footer": {
+    "GroupOne": {
+      "header": "Sobre USAGov en Español",
+      "linkOne": "Acerca de nosotros y avisos de este sitio",
+      "linkOneUrl": "https://www.usa.gov/espanol/acerca-de-usagov-en-espanol",
+      "linkTwo": "Medios",
+      "linkTwoUrl": "https://www.usa.gov/espanol/medios",
+      "linkThree": "Desarrolladores (en inglés)",
+      "linkThreeUrl": "https://www.usa.gov/developer",
+      "linkFour": "Reporte problemas en este sitio",
+      "linkFourUrl": "https://www.usa.gov/espanol/reporte-problemas-en-este-sitio-web",
+      "linkFive": "Todos los temas y servicios",
+      "linkFiveUrl": "https://www.usa.gov/espanol/#tpcs"
+    },
+    "GroupTwo": {
+      "header": "Envíenos sus preguntas",
+      "linkOne": "Llame al 1-844-USAGOV1 (1-844-872-4681)",
+      "linkOneUrl": "https://www.usa.gov/espanol/centro-de-llamadas",
+      "linkTwo": "In English",
+      "linkTwoUrl": "https://www.usa.gov/contact"
+    },
+    "GroupThree": {
+      "header": "Subscríbase para recibir información actualizada",
+      "formLabel": "Escriba su email",
+      "buttonText": "Subscríbase ahora"
+    },
+    "subFooter": "USAGov en Español es la guía oficial de información y servicios del Gobierno"
+  },
+  "lifeEvent": {
+    "buttonLabel1": "Abrir todo",
+    "buttonLabel2": "Cerrar todo",
+    "buttonLabel3": "Borrar selecciones",
+    "buttonLabel4": "Borrar mis selecciones",
+    "important": "Información importante",
+    "benefits": "Beneficios federales potenciales",
+    "results": "Resultados",
+    "labelShowText": "Mostrando",
+    "labelShowText2": "beneficios relacionados ordenados por:",
+    "option1": "Relevancia",
+    "option2": "Título (A-Z)",
+    "eligibilityCriteria": "Criterios de elegibilidad",
+    "currentlyViewing": "Viendo actualmente",
+    "fetchState": {
+      "pending": "Buscando beneficios...",
+      "error": "Error al buscar beneficios.",
+      "none": "No se encontraron beneficios que coincidan."
+    }
+  },
+  "types": {
+    "heading": "Si conoce el tipo específico de beneficio que está buscando, selecciónelo abajo.",
+    "sort": "Beneficios por tipo"
+  },
+  "agency": {
+    "sort": "Beneficios por agencia"
+  },
+  "buttons": {
+    "open_all": "Abrir todo",
+    "close_all": "Cerrar todo",
+    "my_selections": "mis selecciones"
+  },
+  "radio": {
+    "not_applicable": "no corresponde"
+  },
+  "dropDown": {
+    "select": "Seleccione"
+  },
+  "shareResults": {
+    "heading": "Compartir e imprimir",
+    "description": "Copie el enlace a esta página  con los criterios que seleccionó arriba. Compártalo solo con personas de confianza porque se verán sus respuestas.",
+    "linkCopied": "Copia del enlace con mis selecciones",
+    "copy": "Copiar mis selecciones",
+    "email": "Enviar por email mis selecciones",
+    "print": "Imprimir mis selecciones"
+  },
+  "accordion": {
+    "provided": "Suministrado por",
+    "apply": "Cómo presentar una solicitud",
+    "not_eligible": "usted no es elegible",
+    "eligible": "usted podría ser elegible",
+    "unknown": "se necesita más información"
+  },
+  "criteria_group": {
+    "non_selected": "No se seleccionaron criterios de elegibilidad"
+  },
+  "dateInput": {
+    "month": "Mes",
+    "day": "Día",
+    "year": "Año",
+    "year-placeholder": "AAAA",
+    "example": "Por ejemplo: 28/4/1986",
+    "error_msg": "Ingrese una fecha válida."
+  },
+  "404": {
+    "sidenav": {
+      "linkOne": "https://www.usa.gov/espanol/contactenos",
+      "linkOneText": "Contáctenos",
+      "linkTwo": "https://www.usa.gov/espanol/chat",
+      "linkTwoText": "Chat",
+      "linkThree": "https://www.usa.gov/espanol/forma-de-uso",
+      "linkThreeText": "Encuentre lo que necesita en USAGov en Español",
+      "linkFour": "https://www.usa.gov/espanol/centro-de-llamadas",
+      "linkFourText": "Llame gratis a USAGov en Español"
+    },
+    "contactBox": {
+      "header": "¿Tiene una pregunta?",
+      "paragraph": "Pregúntenos de forma gratuita sobre el Gobierno de Estados Unidos. Nuestros agentes le responderán directamente o le dirán dónde puede encontrar la respuesta que necesita.",
+      "list": {
+        "bulletOneText": "Llame y hable con un agente de USAGov en Español",
+        "bulletOneLink": "https://www.usa.gov/espanol/centro-de-llamadas",
+        "bulletTwoText": "Chatee con un agente de USAGov en Español",
+        "bulletTwoLink": "https://www.usa.gov/espanol/chat"
+      }
+    },
+    "heading": "No se encontró la página",
+    "paragraphOne": "Lo sentimos, pero puede que la página que busca haya sido eliminada, se le haya cambiado el nombre o no esté disponible por ahora.",
+    "paragraphTwo": "Si escribió el URL a mano, verifique su ortografía y el uso de mayúsculas. Nuestros URLs aparecen así: <strong>usa.gov/espanol/ejemplo-uno</strong>.",
+    "paragraphThree": "Puede ir a nuestra página de&nbsp;<a href='https://www.usa.gov/espanol/servicios-informacion'>servicios</a>&nbsp;para buscar la información que necesita por tema, usar nuestro buscador o&nbsp;<a href='https://www.usa.gov/espanol/contactenos'>contactarnos</a>&nbsp;si aún tiene alguna duda."
+  },
+  "screenReader": {
+    "close": "Todos los acordeones cerrados",
+    "open": "Todos los acordeones abiertos",
+    "match": "Coincides con",
+    "benefits": "beneficios",
+    "clear": "Selecciones borradas"
+  }
+}

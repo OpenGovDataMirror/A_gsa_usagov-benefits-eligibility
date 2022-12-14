@@ -1,0 +1,170 @@
+// ######################
+// COLORS FROM STYLEGUIDE
+// ######################
+//NOTE: Many of the primary/supporting color variables are used for other colors in a redundant manner
+
+// Primary Colors
+$dark-blue: #11385b; //NOTE not currently in our code
+$aqua-blue: #02bfe7; //highlights action items and key areas (buttons, borders, etc)
+$white: #ffffff; //site background, text on dark
+
+// Supporting Colors
+$dark-gray: #4b4b4d; //footer primary
+$light-gray: #d9d9d9; //footer secondary
+$beige: #ebe6de; //leftnav
+$red: #c61f0c; //h1, leftnav current item, featurebox h2
+$blue: #154285; //standard links, h2, leftnav header
+$black: #000000; //standard text, h3
+
+// Other Colors
+$h3: $dark-gray;
+$button-text: $black;
+$aqua-darker: #00a6d2; //hover
+$lang-toggle: $dark-blue;
+$AZ-button: $blue;
+$AZ-button-disabled: #859cba;
+
+.text-success {
+  color: color("success-dark");
+}
+
+@media print {
+  body {
+    margin: 0;
+    color: #000 !important;
+    background-color: #fff;
+    font: 10pt Georgia, "Times New Roman", Times, serif;
+    line-height: 1;
+  }
+  .break-inside-avoid {
+    page-break-inside: avoid;
+    break-inside: avoid;
+    display: block;
+  }
+  .break-before-always-nfc:not(:first-child),
+  .break-before-always {
+    page-break-before: always;
+    break-before: page;
+    display: block;
+  }
+  .print\:text-left {
+    text-align: left;
+  }
+  .print\:display-none {
+    display: none;
+  }
+  .print\:display-inline {
+    display: inline;
+  }
+  .print\:display-block {
+    display: block;
+  }
+  .print\:text-black {
+    color: color("black");
+  }
+  .print\:bg-white {
+    @include u-bg("white");
+  }
+  .print\:text-base-darker {
+    color: color("base-darker");
+  }
+}
+
+.usa-nav__secondary {
+  @include at-media($theme-header-min-width) {
+    bottom: 6rem;
+  }
+}
+
+.usa-social-link-a11y > img {
+  display: block;
+  margin: 0 auto;
+  width: 65%;
+  transform: translate(0, 25%);
+}
+
+@media (min-width: 64em) {
+  .usa-navbar.position-relative > .usa-nav__secondary {
+    bottom: 3rem;
+  }
+}
+
+.usa-footer {
+  &__primary-section {
+    background-color: $dark-gray;
+  }
+
+  &__secondary-section {
+    background-color: $light-gray;
+  }
+
+  &__primary-link,
+  &__secondary-link > a,
+  &__secondary-link > a:visited,
+  &__secondary-link > a:hover {
+    color: color("white");
+  }
+
+  &__primary-link:hover {
+    cursor: unset;
+    text-decoration: none;
+  }
+
+  .usa-list--unstyled > li {
+    @include u-margin-bottom(1);
+  }
+}
+
+.usa-button-group__item,
+.usa-search,
+.usa-footer {
+  .usa-button {
+    background-color: color("cyan-30v");
+    color: $black;
+
+    &:hover {
+      background-color: #00a6d2;
+      text-decoration: underline;
+    }
+  }
+}
+
+h1.text-secondary {
+  color: #c61f0c;
+}
+
+.usa-nav__primary > .usa-nav__primary-item > a {
+  color: #154285;
+}
+
+.usa-header--extended .usa-nav__primary-item > .usa-current::after,
+.usa-header--extended .usa-nav__primary-item > .usa-nav__link:hover::after {
+  background-color: #02bfe7;
+}
+
+@include at-media(tablet) {
+  .usa-header--extended .usa-nav__primary-item > .usa-current::after,
+  .usa-header--extended .usa-nav__primary-item > .usa-nav__link:hover::after {
+    height: 0.5rem;
+  }
+}
+
+.usa-search [type="submit"] {
+  @include u-padding-x(1);
+}
+
+.usa-accordion {
+  .usa-tag {
+    background-color: color("gray-cool-5");
+    color: #1b1b1b;
+  }
+
+  .usa-button--outline.usa-button--inverse.usa-button--unstyled {
+    background-color: color("gray-cool-5");
+    color: #1b1b1b;
+  }
+}
+
+.usagov-heading--blue {
+  color: $blue;
+}
